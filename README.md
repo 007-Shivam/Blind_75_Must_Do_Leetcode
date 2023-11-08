@@ -4,13 +4,9 @@ Welcome to the Blind 75 Must Do Leetcode repository! This collection of Leetcode
 Blind 75 Must Do Leetcode - [Click here](https://leetcode.com/list/xi4ci4ig/)
 
 # Problem Statements
-<<<<<<< HEAD
 1. [Two Sum](https://leetcode.com/problems/two-sum/?envType=list&envId=poxu4l93)<br>
 4. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/?envType=list&envId=poxu4l93)<br><br>
 
-=======
-1. [Two Sum](https://leetcode.com/problems/two-sum/?envType=list&envId=poxu4l93)<br><br>
->>>>>>> 760715fa8c272b729ee5f445cb04086c0aaf6a25
 
 
 
@@ -18,8 +14,4 @@ Blind 75 Must Do Leetcode - [Click here](https://leetcode.com/list/xi4ci4ig/)
 
 You are free to use, modify, and distribute the code and content in this repository, as long as you provide proper attribution and comply with the license terms.
 
-<<<<<<< HEAD
 Happy coding and best of luck with your technical interview preparations!
-=======
-Happy coding and best of luck with your technical interview preparations!
->>>>>>> 760715fa8c272b729ee5f445cb04086c0aaf6a25
