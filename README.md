@@ -5,6 +5,7 @@ Blind 75 Must Do Leetcode - [Click here](https://leetcode.com/list/xi4ci4ig/)
 
 # Problem Statements
 1. [Two Sum](https://leetcode.com/problems/two-sum/?envType=list&envId=poxu4l93)<br>
+2. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/?envType=list&envId=xi4ci4ig)<br>
 4. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/?envType=list&envId=poxu4l93)<br><br>
 
 
