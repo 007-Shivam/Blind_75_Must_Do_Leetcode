@@ -1,16 +1,14 @@
 # Blind 75 Must Do Leetcode
 
-Welcome to the Blind 75 Must Do Leetcode repository! This collection of Leetcode problems is designed to help you prepare for technical interviews, especially if you're aiming to ace your interviews with top tech companies. The "Blind 75" is a curated list of 75 Leetcode problems that have been carefully selected to cover a wide range of data structures, algorithms, and problem-solving techniques commonly encountered during technical interviews.<br>
+Welcome to the Blind 75 Must Do Leetcode repository! This collection of Leetcode problems is designed to help you prepare for technical interviews, especially if you're aiming to ace your interviews with top tech companies. The "Blind 75" is a curated list of 75 Leetcode problems that have been carefully selected to cover a wide range of data structures, algorithms, and problem-solving techniques commonly encountered during technical interviews.<br><br>
 Blind 75 Must Do Leetcode - [Click here](https://leetcode.com/list/xi4ci4ig/)
 
 # Problem Statements
 1. [Two Sum](https://leetcode.com/problems/two-sum/?envType=list&envId=poxu4l93)<br>
 2. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/?envType=list&envId=xi4ci4ig)<br>
 3. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/?envType=list&envId=xi4ci4ig)<br>
-4. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/?envType=list&envId=poxu4l93)<br><br>
-
-
-
+4. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/?envType=list&envId=poxu4l93)<br>
+5. [3Sum](https://github.com/007-Shivam/Blind_75_Must_Do_Leetcode)<br><br>
 
 
 
