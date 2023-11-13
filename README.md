@@ -8,7 +8,8 @@ Blind 75 Must Do Leetcode - [Click here](https://leetcode.com/list/xi4ci4ig/)
 2. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/?envType=list&envId=xi4ci4ig)<br>
 3. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/?envType=list&envId=xi4ci4ig)<br>
 4. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/?envType=list&envId=poxu4l93)<br>
-5. [3Sum](https://github.com/007-Shivam/Blind_75_Must_Do_Leetcode)<br><br>
+5. [3Sum](https://leetcode.com/problems/3sum/?envType=list&envId=xi4ci4ig)<br>
+6. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/?envType=list&envId=xi4ci4ig)<br><br>
 
 
 
