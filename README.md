@@ -9,7 +9,9 @@ Blind 75 Must Do Leetcode - [Click here](https://leetcode.com/list/xi4ci4ig/)
 3. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/?envType=list&envId=xi4ci4ig)<br>
 4. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/?envType=list&envId=poxu4l93)<br>
 5. [3Sum](https://leetcode.com/problems/3sum/?envType=list&envId=xi4ci4ig)<br>
-6. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/?envType=list&envId=xi4ci4ig)<br><br>
+6. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/?envType=list&envId=xi4ci4ig)<br>
+7. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/?envType=list&envId=xi4ci4ig)<br><br>
+
 
 
 
