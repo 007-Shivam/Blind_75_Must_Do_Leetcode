@@ -12,7 +12,9 @@ Blind 75 Must Do Leetcode - [Click here](https://leetcode.com/list/xi4ci4ig/)
 6. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/?envType=list&envId=xi4ci4ig)<br>
 7. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/?envType=list&envId=xi4ci4ig)<br>
 8. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/?envType=list&envId=xi4ci4ig)<br>
-9. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/?envType=list&envId=xi4ci4ig)<br><br>
+9. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/?envType=list&envId=xi4ci4ig)<br>
+10. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/?envType=list&envId=xi4ci4ig)<br><br>
+
 
 
 
