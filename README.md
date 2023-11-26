@@ -14,7 +14,8 @@ Blind 75 Must Do Leetcode - [Click here](https://leetcode.com/list/xi4ci4ig/)
 8. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/?envType=list&envId=xi4ci4ig)<br>
 9. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/?envType=list&envId=xi4ci4ig)<br>
 10. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/?envType=list&envId=xi4ci4ig)<br>
-11. [Combination Sum](https://leetcode.com/problems/combination-sum/?envType=list&envId=xi4ci4ig)<br><br>
+11. [Combination Sum](https://leetcode.com/problems/combination-sum/?envType=list&envId=xi4ci4ig)<br>
+12. [Rotate Image](https://leetcode.com/problems/rotate-image/?envType=list&envId=xi4ci4ig)<br><br>
 
 
 
