@@ -20,7 +20,8 @@ Blind 75 Must Do Leetcode - [Click here](https://leetcode.com/list/xi4ci4ig/)
 14. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/?envType=problem-list-v2&envId=poxu4l93)<br>
 15. [Missing Number](https://leetcode.com/problems/missing-number?envType=problem-list-v2&envId=xi4ci4ig)<br>
 16. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/?envType=problem-list-v2&envId=xi4ci4ig)<br>
-17. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence?envType=problem-list-v2&envId=xi4ci4ig)<br><br>
+17. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence?envType=problem-list-v2&envId=xi4ci4ig)<br>
+18. [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array?envType=problem-list-v2&envId=xi4ci4ig)<br><br>
 
 
 
